@@ -5,6 +5,6 @@ Our heart disease prediction project utilizes a comprehensive dataset comprising
 By harnessing the power of SVM, our project aims to revolutionize cardiovascular risk assessment and preventive healthcare strategies. SVM's exceptional accuracy in predicting heart disease risk underscores its efficacy in analyzing complex medical data and extracting meaningful insights. The inclusion of diverse patient attributes in our dataset allows for a comprehensive assessment of individual risk factors, facilitating personalized healthcare interventions and targeted preventive measures. Through this project, we aspire to empower healthcare professionals with a reliable tool for early detection and proactive management of heart disease, ultimately improving patient outcomes and reducing the burden of cardiovascular ailments on global health systems.
 
 The code implements a feedback form using Streamlit, allowing users to provide feedback on a heart failure prediction model. The feedback form includes fields for the user's name and their feedback text, it also saves the feedback of all previous users.
-
-
-
+![h1](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/c7b71cb9-06d5-40f7-b3d9-33034c000d88)
+![h2](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/38a5dc24-c8f1-40b2-b7e6-6dfd5a1a6da7)
+![h3](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/b173d9df-1b9f-472a-bcb8-a941b1a08c13)
