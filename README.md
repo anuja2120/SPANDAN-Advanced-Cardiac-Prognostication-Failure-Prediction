@@ -7,4 +7,4 @@ By harnessing the power of SVM, our project aims to revolutionize cardiovascular
 The code implements a feedback form using Streamlit, allowing users to provide feedback on a heart failure prediction model. The feedback form includes fields for the user's name and their feedback text, it also saves the feedback of all previous users.
 ![h1](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/8d3ed8b5-ecc2-4361-b8a1-f5754391d604)
 ![h2](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/869dfd3a-1aad-4263-a9cc-aa201a123056)
-![h3](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/02f7d079-4fe2-4969-8a7a-a17f740885e4)
+
