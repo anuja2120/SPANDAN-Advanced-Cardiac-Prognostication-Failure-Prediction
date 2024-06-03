@@ -11,5 +11,8 @@ The code implements a feedback form using Streamlit, allowing users to provide f
 
 Developed a responsive and intuitive user interface for the Heart Disease Prediction application using Flutter, enabling seamless operation across both Android and iOS devices.
 Enhanced the user experience by incorporating Flutter’s rich set of widgets for a smooth and interactive interface, along with real-time data visualization to display prediction outcomes and health metrics effectively.
+![WhatsApp Image 2024-06-03 at 11 48 01 AM](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/04d9c556-7bc8-4ec9-b7b7-04211f9c0b09)
+![WhatsApp Image 2024-06-03 at 11 46 24 AM](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/db49d161-03c9-45ae-91b3-d89d8058ed0e)
+![WhatsApp Image 2024-06-03 at 11 46 10 AM](https://github.com/anuja2120/SPANDAN-Advanced-Cardiac-Prognostication-Failure-Prediction/assets/137266229/13c4ec4a-32f9-4287-b4c9-df5a7be4d48b)
 
 
